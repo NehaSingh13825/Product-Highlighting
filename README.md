@@ -1,0 +1,2 @@
+# Product-Highlighting
+Basecamp, a 37signals product, chooses to highlight its most popular product plan in order to draw attention to it and hopefully create more conversions of visitors to customers. The featured product plan also has the added bonus of Javascript tooltips to offer more detail to the highlighted product features. Please notice that each link has its own tooltip that appears on the right hand side when a text link is hovered.
