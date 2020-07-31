@@ -1,0 +1,42 @@
+body.signup4 div.tall {
+  background-color:#FFFFFF;
+  border:3px solid #3671A1;
+  float:left;
+  font-family:helvetica,arial,sans-serif;
+  height:310px;
+  padding:8px 10px 10px;
+  text-align:center;
+  width:220px;
+}
+body.signup4 div.tall h1, body.signup4 div.tall h1 a {
+  color:#000000;
+  font-size:42px;
+  line-height:1em;
+  margin:0;
+  padding:0;
+  text-decoration:none;
+}
+body.signup4 div.tall h2 {
+  color:#000000;
+  font-size:24px;
+  font-weight:normal;
+  margin:0 0 2px;
+  padding:0;
+}
+body.signup4 div.tall h3 {
+  border-bottom:1px solid #CCCCCC;
+  color:#4582B5;
+  font-size:16px;
+  font-weight:bold;
+  margin:0;
+  padding:0 0 4px text-transform:uppercase;
+} 
+body.signup4 a.hover_target {
+  border-bottom:1px dotted #888888;
+  color:#64503F;
+  margin-left:6px;
+  text-decoration:none;
+}
+body.signup4 div.tall li strong, body.signup4 div.short li strong {
+  color:#C33700;
+}
